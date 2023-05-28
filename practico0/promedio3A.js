@@ -1,5 +1,5 @@
-let x = var1;
-let y = var2;
-let z = var3;
+let x = 5;
+let y = 7;
+let z = 9;
 let promedio = (x + y + z) / 3;
 console.log (promedio);
