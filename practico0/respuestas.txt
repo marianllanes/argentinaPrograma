@@ -1,0 +1,31 @@
+1.
+  a. ¿Qué valor devuelve su programa si el minuendo es 10 y el
+     sustraendo 2?
+     8
+     
+  b. ¿Qué valor devuelve su programa si los números son 2 *17 * 6?
+     204
+
+2.
+  a. ¿Cuál es el área de un rectángulo de base 5cm y altura 3cm?
+     15cm
+
+  b. ¿Cuál es el área de un rectángulo de base 12.5cm y altura 5.3cm?
+     66.25cm
+
+3. 
+  a. ¿Cuántos grados C son 50 F?
+     10 ºC
+
+  b. ¿Cuántos grados C son 75 F?
+     23.8 ºC
+
+4. 
+   a. ¿Cuál es el promedio entre 5, 7 y 9?
+     7
+
+b. ¿Cuál es el promedio entre -2 , -3, -8?
+     -4.3
+
+c. ¿Cuál es el promedio entre -1.2, 5.3, -3.3?
+     0.26
